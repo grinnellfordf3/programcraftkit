@@ -1,0 +1,33 @@
+{
+  "name": "programcraftkit",
+  "version": "1.0.2",
+  "description": "programcraftkit",
+  "type": "module",
+  "main": "programcraftkit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grinnellfordf3/programcraftkit"
+  },
+  "website": "https://github.com/grinnellfordf3/programcraftkit.git",
+  "keywords": [
+    "programcraftkit"
+  ],
+  "author": "grinnellfordf3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grinnellfordf3/programcraftkit/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/grinnellfordf3/programcraftkit#readme",
+  "dependencies": {
+		"devprophet": "1.0.2",
+		"codecraftmaster": "1.0.2",
+		"devtoolsavvy": "1.0.2"
+  }
+}
